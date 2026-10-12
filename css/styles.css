@@ -1,0 +1,12 @@
+/* El hero ocupa toda la pantalla con un fondo de color */
+.hero {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0d6efd, #212529);
+}
+
+/* Foto circular de tamaño fijo */
+.foto {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
